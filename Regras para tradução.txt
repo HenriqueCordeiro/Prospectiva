@@ -1,0 +1,65 @@
+O arquivo em anexo é um artigo acadêmico escrito em português. 
+
+Eu desejo traduzir cada frase para o inglês.
+
+O resultado deve ser apresentado em uma tabela e salva em arquivo do Microsoft Word, conforme regras a seguir.
+
+Sobre o texto:
+
+1. O texto possui títulos, subtítulos e conteúdo.
+2. Títulos devem ser considerados uma única frase; eles estão formatados com o tamanho da fonte igual a 16.
+3. Subtítulos devem ser considerados uma única frase; eles estão formatados com o tamanho da fonte igual a 14.
+4. O conteúdo está formatado com o tamanho da fonte igual a 12 ou menor.
+5. O conteúdo contém frases encerradas por um dos seguintes sinais gráficos: ponto final, ponto-e-vírgula, interrogação ou dois pontos.
+6. Quando uma expressão estiver entre parênteses e ela contiver algarismos, ela não devem ser traduzida.
+7. Quando uma expressão contiver apenas algarismos e sinais gráficos, ou seja, não contiver letras, ela não devem ser traduzida.
+
+Sobre a tabela:
+
+1.  A tabela deve ter cinco colunas:
+    * Linha: número sequencial;
+    * Texto original: texto tal como extraído (com formatação);
+    * Qtd 1: quantidade de palavras da frase original;
+    * Texto traduzido: texto em inglês.
+    * Qtd 2: quantidade de palavras da frase traduzida.
+
+2. Ao inserir textos na tabela, mantenha a formatação do texto original: fonte, tamanho da fonte, negrito, itálico etc.
+
+Traduza o conteúdo da seção '3. Metodologia'; ela se encerra na seção '4. Resultados e análise'.
+
+Sobre o processo de tradução
+
+1.  **Traduzir cada frase** do conteúdo para o **inglês**, mantendo os **parênteses no idioma original**.
+2.  **Glossário acadêmico padrão** a ser utilizado nas traduções:
+    *   *ator* → **actor**;
+    *   *hipótese científica* → **scientific hypothesis**;
+    *   *legitimidade epistemológica* → **epistemological legitimacy**;
+    *   *construção de cenários* → **scenario construction**;
+    *   *planejamento por cenários* → **scenario planning**;
+    *   *escala Likert* → **Likert scale**.
+
+----------
+
+Considere as seguintes alterações em relação às instruções anteriores.
+
+Sobre o texto:
+
+a) O texto possui títulos, subtítulos e conteúdo. 
+
+b) Títulos estão em fonte 16, subtítulos em fonte 14 e conteúdo em fonte 12.
+
+c) Cada título ou subtítulo deve ser considerado uma única frase, ignorando-se as regras sobre o encerramento de frases.
+
+Sobre a tabela:
+
+Construa com quatro colunas:
+
+a) 'Linha', contendo um número sequencial;
+b) 'Texto original', contendo o texto tal como extraído;
+c) 'Qtd', contendo a quantidade de palavras da frase;
+d) 'Texto traduzido', contendo o texto em inglês.
+
+Por fim, mantenha a formatação do texto extraído: fonte, tamanho da fonte, negrito, itálico etc..
+
+Prossiga com a seção '1. PLANEJAMENTO POR CENÁRIOS: O QUE É, PARA QUE SERVE E COMO É FEITO' e suas subseções: '1.1. Fundamentos' e '1.2. O método Grumbach de gestão estratégica'.
+
