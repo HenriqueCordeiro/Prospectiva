@@ -18,6 +18,10 @@ Morin, "determinismo e da simplificação;": de ponto-e-vírgula para vírgula
 
 Premissas: "pode ser considerado original (neste estudo)."
 
+“Preceito Cartesiano” identifica cada (as regras descritas na seção 3.2) regra descritas na seção 2.2
+
+Revisar os números das 'sections'
+
 Traduzir notas de rodapé
 
 Traduzir tabelas
