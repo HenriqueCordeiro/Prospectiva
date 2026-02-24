@@ -1,12 +1,19 @@
-Introdução, Linha 6: mesma linha ou parágrafo?
+1.1 Traduzir "Sobre como se conduz o processo" até 1.2
+
+Traduzir notas de rodapé
+
+Traduzir tabelas
+
+Revisar os números das 'sections'
+
+
+
 
 Introdução: occur ou occurs?
 
 Introdução: rigor metodológico ou científico?
 
 Introdução: the former or the first?
-
-1.1 Traduzir "Sobre como se conduz o processo" até 1..2
 
 1.1 último parágrafo: occur ou occurs?
 
@@ -19,10 +26,4 @@ Morin, "determinismo e da simplificação;": de ponto-e-vírgula para vírgula
 Premissas: "pode ser considerado original (neste estudo)."
 
 “Preceito Cartesiano” identifica cada (as regras descritas na seção 3.2) regra descritas na seção 2.2
-
-Revisar os números das 'sections'
-
-Traduzir notas de rodapé
-
-Traduzir tabelas
 
